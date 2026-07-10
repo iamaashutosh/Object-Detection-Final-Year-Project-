@@ -1,0 +1,6 @@
+{
+  "num_classes": 4,
+  "class_names": ["door",
+    "hinge", "knob","lever","Stairs", "window", "Blackboard-whiteboard",
+    "digitalWhiteboard","Person","Chair","Table","Sofa"]
+}
